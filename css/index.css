@@ -113,7 +113,7 @@ button:hover{
 /* Start of Landing*/
 
 .hero{
-    background-image: url('/images/solar-panels-meadow\ 1.png');
+    background-image: url('../images/solar-panels-meadow 1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -267,7 +267,7 @@ button:hover{
 
 .mini-container{
     width: 100%;
-    background-image: url("/images/8116\ 1.png");
+    background-image: url("../images/mini-container-bg.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -369,7 +369,7 @@ button:hover{
 
 .banner {
     height: 50vh;
-    background-image: url('/images/8116\ 1\ \(1\).png'); 
+    background-image: url('../images/mini-container-bg-2.png'); 
     background-size: cover;
     background-position: center;
     justify-content: center;
