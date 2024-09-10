@@ -1,0 +1,122 @@
+.main-bg{
+    background-color: #3CAB90;
+   
+}
+.alt-bg{
+    background-color: #FFBB1C;
+}
+
+.text-light{
+    color: white;
+}
+.text-black{
+    color: black;
+}
+
+.rounded{
+    border-radius: 40px;
+}
+
+/*font size*/
+
+.f-1{
+    font-size: 15px;
+}
+.f-2{
+    font-size: 20px;
+}
+.f-3{
+    font-size: 30px;
+}
+.f-4{
+    font-size: 40px;
+}
+.f-5{
+    font-size: 50px;
+}
+
+/*font weight*/
+
+
+.fw-1{
+    font-weight: 100;
+}
+.fw-2{
+    font-weight: 200;
+}
+.fw-3{
+    font-weight: 300;
+}
+.fw-4{
+    font-weight: 400;
+}
+.fw-5{
+    font-weight: 500;
+}
+
+.fw-6{
+    font-weight: 600;
+}
+
+/*padding top and bottom*/
+
+
+.px-1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.px-2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.px-3{
+    padding-top:30px ;
+    padding-bottom:30px ;
+}
+
+.px-4{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.px-5{
+    padding-top:50px ;
+    padding-bottom:50px ;
+}
+
+/*padding left and right*/
+
+
+/*padding*/
+
+
+.p-1{
+    padding: 10px;
+}
+.p-2{
+    padding: 20px;
+}
+.p-3{
+    padding: 30px;
+}
+.p-4{
+    padding: 40px;
+}
+.p-5{
+    padding: 50px;
+}
+
+/*display*/
+.d-flex{
+    display: flex;
+}
+
+.d-grid{
+    display: grid;
+}
+
+/*position*/
+.p-relative{
+    position: relative;
+}
+
